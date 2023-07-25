@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-templatev3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlos Pérez Martín",
+  "license": "MIT",
+  "private": false
+}
